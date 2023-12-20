@@ -3791,6 +3791,12 @@
 			width: 100%;
 			z-index: 1;
 		}
+		
+		#banner b{
+			color:white;
+			font-weight:900;
+			!important
+		}
 
 		@media screen and (max-width: 1280px) {
 
